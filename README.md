@@ -19,7 +19,8 @@ I am an Electrical and Computer Engineering Student specializing in Firmware Dev
 
 ## Tech Stack & Tools
 
-**Languages:** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=fpga&logoColor=white)
+**Languages:** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=fpga&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
 
 **Microcontrollers & Architectures:** ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![ESP32/8266](https://img.shields.io/badge/ESP32%20/%208266-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![MSP430](https://img.shields.io/badge/TI_MSP430-CC0000?style=for-the-badge&logo=texas-instruments&logoColor=white) ![RP2040](https://img.shields.io/badge/Raspberry_Pi_Pico-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
