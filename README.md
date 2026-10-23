@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abhyjeet Jagannathan. 👋</h1>
-<h3 align="center">Embedded Systems Engineer | Hardware Security Researcher | Firmware Development</h3>
+<h3 align="center">Embedded Systems Engineering Student | Hardware Security Enthusiast | Firmware Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhyjeet17" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
